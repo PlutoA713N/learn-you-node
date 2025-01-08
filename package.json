@@ -1,0 +1,21 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "main": "baby-steps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "async": "^3.2.6",
+    "bl": "^6.0.18",
+    "concat-stream": "^2.0.0",
+    "net": "^1.0.2",
+    "run-parallel": "^1.2.0",
+    "strftime": "^0.10.3"
+  }
+}
