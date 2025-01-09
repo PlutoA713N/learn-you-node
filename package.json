@@ -16,6 +16,7 @@
     "concat-stream": "^2.0.0",
     "net": "^1.0.2",
     "run-parallel": "^1.2.0",
-    "strftime": "^0.10.3"
+    "strftime": "^0.10.3",
+    "through2-map": "^4.0.0"
   }
 }
